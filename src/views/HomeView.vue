@@ -2,10 +2,7 @@
 </script>
 
 <template>
-  
-  <RouterView />
+  <Header></Header>
+  <main>
+  </main>
 </template>
-
-<style scoped>
-
-</style>
